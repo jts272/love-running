@@ -40,7 +40,7 @@ h2 {
 #menu li {
     float: right;
     list-style-type: none;
-    margin-right: 30px;  
+    margin-right: 30px; 
 }
 
 #menu a {
@@ -54,4 +54,18 @@ h2 {
 
 .active {
     border-bottom: 1px solid #3a3a3a;
+}
+
+/* hero image */
+
+#hero-image {
+    height: 600px;
+    width: 100%;
+    background: url('../images/hero-image.webp') no-repeat center center;
+    clear: right;
+}
+
+#hero-outer {
+    height: 600px;
+    width: 100%;
 }

@@ -3,7 +3,7 @@
 * {
     margin: 0;
     padding: 0;
-    border: 0;
+    border: none;
 }
 
 body {
@@ -41,7 +41,7 @@ h2 {
 #menu li {
     float: right;
     list-style-type: none;
-    margin-right: 30px; 
+    margin-right: 30px;
 }
 
 #menu a {
@@ -212,4 +212,25 @@ hr {
 
 #times h2 {
     color: #fafafa;
+}
+
+/* footer */
+
+footer {
+    height: 150px;
+}
+
+.social-links {
+    text-align: center;
+}
+
+.social-links > li {
+    display: inline;
+}
+
+.social-links i {
+    font-size: 200%;
+    margin: 1%;
+    padding: 5%;
+    color: #3a3a3a;
 }

@@ -229,7 +229,7 @@ footer {
 }
 
 .social-links i {
-    font-size: 300%;
+    font-size: 250%;
     margin: 1%;
     padding: 5%;
     color: #3a3a3a;
@@ -326,4 +326,17 @@ footer {
         text-align: center;
         padding: 0 20px;
     }
+
+    #photos {
+        column-count: 3;
+    }
+}
+
+/* For small screen sizes 800px or less */
+
+@media screen and (max-width: 800px) {
+    #photos {
+        column-count: 2;
+    }
+    
 }

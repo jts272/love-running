@@ -304,11 +304,6 @@ footer {
     color: #f16c6b;
 }
 
-input:autofill,
-input:-webkit-autofill {
-    background-color: red;
-}
-
 /* Media Queries */
 
 /* For larger to medium screen size from 1200px width or less*/

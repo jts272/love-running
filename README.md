@@ -1,3 +1,7 @@
+Link to Love Running Deployed site:
+
+https://jts272.github.io/love-running/
+
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
 Welcome jts272,
